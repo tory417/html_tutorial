@@ -1,0 +1,26 @@
+div{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+abbr{
+	border-bottom: 1px dashed black;
+}
+code{
+	color: #970026;
+}
+small{
+	color:#1D766F;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+span{
+	background-color: #d3d3d3;
+}
+pre{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+hr{
+	margin-left: 20px;
+	margin-right: 20px;
+}
